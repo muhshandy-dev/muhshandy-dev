@@ -37,7 +37,7 @@ PostgreSQL, MySQL, SQLite
 **Engineering**  
 Docker, Git, GitHub, Linux
 
-## Projects
+## Portfolio Roadmap
 
 ### AI & Data
 
@@ -64,9 +64,7 @@ Docker, Git, GitHub, Linux
 
 ### Robotics & IoT
 
-1. -
-2. -
-3. -
+Projects will be added here.
 
 ## Areas of Interest
 
@@ -80,6 +78,5 @@ Docker, Git, GitHub, Linux
 
 ## Links
 
+GitHub: https://github.com/muhshandy-dev  
 LinkedIn: [add LinkedIn URL]
-
-GitHub: https://github.com/muhshandy-dev
