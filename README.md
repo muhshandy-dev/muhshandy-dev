@@ -1,8 +1,8 @@
 # Muhammad Shandy Alfarizal
 
-Informatics graduate from Universitas Mulawarman with a primary focus on artificial intelligence, data science, and data analytics.
+Informatics graduate from Universitas Mulawarman focused on artificial intelligence, data science, and data analytics, with additional work in software development, robotics, and IoT.
 
-I also work on web and mobile development, with additional interest in robotics, IoT, and industrial digitalization.
+My current interests are centered on building practical data-driven systems for industrial and operational environments.
 
 ## Focus
 
@@ -20,7 +20,7 @@ I also work on web and mobile development, with additional interest in robotics,
 Python, SQL, JavaScript, TypeScript, Dart
 
 **AI & Data**  
-Pandas, NumPy, Scikit-learn, XGBoost, PyTorch, OpenCV, Jupyter
+Pandas, NumPy, Scikit-learn, XGBoost, PyTorch, OpenCV
 
 **Data Visualization**  
 Matplotlib, Plotly, Power BI
@@ -35,12 +35,11 @@ Flutter
 PostgreSQL, MySQL, SQLite
 
 **Engineering**  
-Docker, Git, GitHub, Linux
+Docker, Git, Linux
 
-## Portfolio Roadmap
+## Portfolio Roadmap — In Progress
 
 ### AI & Data
-
 1. Multimodal Predictive Maintenance and Remaining Useful Life
 2. Industrial Safety Computer Vision System
 3. Streaming Sensor Anomaly Detection
@@ -53,7 +52,6 @@ Docker, Git, GitHub, Linux
 10. MLOps Model Monitoring and Drift Detection
 
 ### Web & Mobile
-
 1. Offline-First Field Inspection Application
 2. Real-Time Industrial Operations Command Center
 3. Maintenance Management System
@@ -63,7 +61,6 @@ Docker, Git, GitHub, Linux
 7. Business Management Platform
 
 ### Robotics & IoT
-
 Projects will be added here.
 
 ## Areas of Interest
@@ -74,9 +71,8 @@ Projects will be added here.
 - Mining Technology
 - Manufacturing Digitalization
 - Intelligent Monitoring Systems
-- Data-driven Software Systems
+- Applied Machine Learning
 
 ## Links
 
-GitHub: https://github.com/muhshandy-dev  
-LinkedIn: [add LinkedIn URL]
+GitHub: https://github.com/muhshandy-dev
